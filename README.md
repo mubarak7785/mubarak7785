@@ -52,7 +52,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/mubarak7785/github-readme-activity-graph"><img alt="Mubarak Jinabade's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mubarak7785&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
 
 <br/>
 <br/>
